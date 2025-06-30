@@ -16,7 +16,7 @@
   <h3 style="color:#1d5fa8;">🔧 주요 특징</h3>
   <ul>
     <li><strong>구동 방식:</strong> 스크류 타입 리니어 액추에이터 장착형 (※ 별도구매)</li>
-    <li><strong>정격 토크 대응:</strong> 92.6Nm 이하</li>
+    <li><strong>정격 토크 대응:</strong> 92.6Nm 이하 </li>
     <li><strong>재질:</strong> 본체 SUS304 스테인리스 – 우수한 내부식성</li>
     <li><strong>전원:</strong> DC 12V 전용 (ACC 연동 or 배터리 직결)</li>
     <li><strong>제어 방식:</strong> 유선 스위치 / 무선 리모컨 지원 (※ 모두 별도구매)</li>
