@@ -44,7 +44,7 @@
     <tbody>
       <tr><td style="border:1px solid #ccc; padding:8px;">제품명</td><td style="border:1px solid #ccc; padding:8px;">파워 안테나 리프트</td></tr>
       <tr><td style="border:1px solid #ccc; padding:8px;">구동 방식</td><td style="border:1px solid #ccc; padding:8px;">스크류 타입 리니어 액추에이터 (별도구매)</td></tr>
-      <tr><td style="border:1px solid #ccc; padding:8px;">정격 토크</td><td style="border:1px solid #ccc; padding:8px;">92.6 Nm 이상</td></tr>
+      <tr><td style="border:1px solid #ccc; padding:8px;">정격 토크</td><td style="border:1px solid #ccc; padding:8px;">92.6 Nm 이하</td></tr>
       <tr><td style="border:1px solid #ccc; padding:8px;">재질</td><td style="border:1px solid #ccc; padding:8px;">SUS304 스테인리스 / 아노다이징 알루미늄</td></tr>
       <tr><td style="border:1px solid #ccc; padding:8px;">전원</td><td style="border:1px solid #ccc; padding:8px;">DC 12V 전용 (ACC 또는 배터리 연결)</td></tr>
       <tr><td style="border:1px solid #ccc; padding:8px;">제어 방식</td><td style="border:1px solid #ccc; padding:8px;">유선 스위치 / 무선 리모컨 (별도구매)</td></tr>
