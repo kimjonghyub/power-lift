@@ -30,7 +30,7 @@
 
   <h3 style="color:#1d5fa8;">🚗 지원 차량</h3>
   <ul>
-    <li>더 뉴 카니발 (KA4)</li>
+    <li>더 뉴 카니발 (YP)</li>
     <li>올 뉴 카니발 (YP)</li>
     <li>그랜드 카니발 (VQ)</li>
   </ul>
